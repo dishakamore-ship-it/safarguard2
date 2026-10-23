@@ -1,0 +1,1 @@
+"""SafarGuard Flask backend package."""
